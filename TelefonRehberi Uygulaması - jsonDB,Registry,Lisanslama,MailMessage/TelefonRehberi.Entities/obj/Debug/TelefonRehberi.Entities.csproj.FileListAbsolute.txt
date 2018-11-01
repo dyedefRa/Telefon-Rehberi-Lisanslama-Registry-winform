@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\TelefonRehberi\TelefonRehberi.Entities\bin\Debug\TelefonRehberi.Entities.dll
+C:\Users\Asus\source\repos\TelefonRehberi\TelefonRehberi.Entities\bin\Debug\TelefonRehberi.Entities.pdb
+C:\Users\Asus\source\repos\TelefonRehberi\TelefonRehberi.Entities\obj\Debug\TelefonRehberi.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\TelefonRehberi\TelefonRehberi.Entities\obj\Debug\TelefonRehberi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TelefonRehberi\TelefonRehberi.Entities\obj\Debug\TelefonRehberi.Entities.dll
+C:\Users\Asus\source\repos\TelefonRehberi\TelefonRehberi.Entities\obj\Debug\TelefonRehberi.Entities.pdb

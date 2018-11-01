@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\TelefonRehberi.BLL.dll
+C:\Users\Asus\source\repos\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\TelefonRehberi.BLL.pdb
+C:\Users\Asus\source\repos\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\TelefonRehberi.Core.dll
+C:\Users\Asus\source\repos\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\TelefonRehberi.Entities.dll
+C:\Users\Asus\source\repos\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\source\repos\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\TelefonRehberi.Core.pdb
+C:\Users\Asus\source\repos\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\TelefonRehberi.Entities.pdb
+C:\Users\Asus\source\repos\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asus\source\repos\TelefonRehberi\TelefonRehberi.BLL\obj\Debug\TelefonRehberi.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\TelefonRehberi\TelefonRehberi.BLL\obj\Debug\TelefonRehberi.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TelefonRehberi\TelefonRehberi.BLL\obj\Debug\TelefonRehberi.BLL.dll
+C:\Users\Asus\source\repos\TelefonRehberi\TelefonRehberi.BLL\obj\Debug\TelefonRehberi.BLL.pdb
+C:\Users\Asus\source\repos\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\CsvHelper.dll
+C:\Users\Asus\source\repos\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\CsvHelper.xml
+C:\Users\Asus\source\repos\TelefonRehberi\TelefonRehberi.BLL\bin\Debug\CsvHelper.pdb
